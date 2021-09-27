@@ -1,1 +1,1 @@
-# TypeScript-s-Strict-Compiler-Options
+# TypeScript's Strict Compiler Options
