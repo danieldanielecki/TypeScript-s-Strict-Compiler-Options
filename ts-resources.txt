@@ -1,0 +1,22 @@
+Official docs:
+- https://www.typescriptlang.org/docs/handbook/compiler-options.html
+- https://www.typescriptlang.org/tsconfig
+
+Blogs:
+- https://www.carlrippon.com/controlling-type-checking-strictness-in-typescript/
+- https://javascript.plainenglish.io/what-are-typescript-strict-compiler-options-part-1-5822c67c1df5
+- https://dev.to/jsdev/strict-mode-typescript-j8p
+- https://betterprogramming.pub/how-typescripts-strict-mode-actually-fixes-typescript-736ba8108c85
+
+YouTube:
+- https://www.youtube.com/watch?v=O4CtL-iw72U
+- https://www.youtube.com/watch?v=H_vrbgBca0U
+- https://www.youtube.com/watch?v=dPgAXFcFHCM
+- https://www.youtube.com/watch?v=3_M6DB9tySQ
+- https://www.youtube.com/watch?v=KLxv6j3l_mU
+- https://www.youtube.com/watch?v=3ua7ZuoSFdI
+- https://www.youtube.com/watch?v=i751O3QFLQM (resources' hidden gem)
+
+StackOverflow discussion:
+- https://stackoverflow.com/questions/43727889/is-it-a-good-idea-to-always-set-alwaysstrict-to-true-in-tsconfig-json
+- https://stackoverflow.com/questions/31391760/use-strict-needed-in-a-typescript-file
