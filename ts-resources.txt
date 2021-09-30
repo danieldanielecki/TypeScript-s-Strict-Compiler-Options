@@ -5,6 +5,7 @@ Official docs:
 Blogs:
 - https://www.carlrippon.com/controlling-type-checking-strictness-in-typescript/
 - https://javascript.plainenglish.io/what-are-typescript-strict-compiler-options-part-1-5822c67c1df5
+- https://javascript.plainenglish.io/what-are-these-strict-compiler-options-in-typescript-part-2-a7e974b13e54
 - https://dev.to/jsdev/strict-mode-typescript-j8p
 - https://betterprogramming.pub/how-typescripts-strict-mode-actually-fixes-typescript-736ba8108c85
 
